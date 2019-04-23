@@ -4,7 +4,7 @@
 int main(){
 
     int numero_funcionario;  
-    int hr_trabalhadas;;
+    int hr_trabalhadas;
     double valor_hr;
  
 
