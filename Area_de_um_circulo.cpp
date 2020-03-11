@@ -8,9 +8,10 @@ int main(){
     std::cin >> R;
 
     A = R*R *3.14159; 
-   std::cout << std::fixed << std::setprecision(4);
-
-   std::cout << "A=" << A << std::endl;
+    std::cout << std::fixed << std::setprecision(4);
+// sdbjsdsd
+    std::cout << "A=" << A << std::endl;
 
     return 0 ;
 }
+///
